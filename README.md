@@ -1,2 +1,5 @@
 # botuser-client
-bot user client for habbo
+BOT USER CLIENT FOR HABBO (FAKE CO'S/TEST RESISTANCE)
+
+### SCREENSHOTS
+![](screen.png)
